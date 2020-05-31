@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The main goal of this project is to use computer vision systems to detect fuel prices from local fuel stations. In order to succeed with this project the group will develop an application which will be enable the user to take pictures of price signs and list fuel prices. 
+
 ## Mobile application - [Repository](https://github.com/rsb0/TDT4856-Gruppe-3---IT-Styring-Av-Lastebiler/tree/frontend-master)
 Take pictures and show price information to the users.
 
@@ -32,7 +33,7 @@ The app is available as a downloadable apk-file for android phones. It is unfort
 4. Scan the QR-code printed when the server starts using the Expo app on your phone.
 5. Open the project code in a text editor or IDE to make changes and see their effect in real time on your phone.
 
-## Backend - [Repository](https://github.com/rsb0/TDT4856-Gruppe-3---IT-Styring-Av-Lastebiler/tree/backend-master)
+## Backend
 Process pictures and stores fuel price related information.
 
 ### Prerequisites

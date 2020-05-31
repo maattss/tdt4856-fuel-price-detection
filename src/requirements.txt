@@ -1,0 +1,5 @@
+Flask
+python-dotenv
+azure-cosmosdb-table
+azure-storage-blob
+uuid
