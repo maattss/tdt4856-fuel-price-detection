@@ -3,7 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The main goal of this project is to use computer vision systems to detect fuel prices from local fuel stations. In order to succeed with this project the group will develop an application which will be enable the user to take pictures of price signs and list fuel prices. 
-## Mobile application
+
+## Mobile application - [Repository](https://github.com/rsb0/TDT4856-Gruppe-3---IT-Styring-Av-Lastebiler/tree/frontend-master)
 Take pictures and show price information to the users.
 
 ### Downloading the app
@@ -34,6 +35,7 @@ The app is available as a downloadable apk-file for android phones. It is unfort
 
 ## Backend
 Process pictures and stores fuel price related information.
+
 ### Prerequisites
 - [Python 3.8.1](https://www.python.org/downloads/)
 - [Flask 1.1.1](https://flask.palletsprojects.com/en/1.1.x)
