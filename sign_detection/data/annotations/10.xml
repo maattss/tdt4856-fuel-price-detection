@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>10.png</filename>
+	<path>/Users/sondreolsen/Desktop/NTNU/8_semester_var2020/TDT4856/data/images/10.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2198</width>
+		<height>1470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fuel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1451</xmin>
+			<ymin>179</ymin>
+			<xmax>1712</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

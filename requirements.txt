@@ -1,0 +1,7 @@
+cython==0.29.15
+numpy==1.18.1
+pycocotools==2.0.0
+torch==1.4.0
+torchvision==0.5.0
+pytesseract==0.3.3
+imutils==0.5.3

@@ -16,6 +16,14 @@ __pycache__/
 # C extensions
 *.so
 
+# images and annotations
+data/
+image_labeling/
+images/
+prediction_output/
+model_output/
+gasprice_images/
+
 # Distribution / packaging
 .Python
 build/
@@ -75,6 +83,8 @@ target/
 
 # pyenv
 .python-version
+venv/
+*/virtualenvs/
 
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
@@ -182,6 +192,9 @@ fabric.properties
 .idea/**/markdown-navigator.xml
 .idea/**/markdown-navigator/
 
+
+#MAC
+*/.DS_Store
 
 ### VisualStudioCode ###
 .vscode/*
